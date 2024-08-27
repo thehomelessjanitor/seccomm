@@ -7,7 +7,7 @@ Status: Work in progress
 Discription:
     A script that ultilises a p2p TCP socket connection to create a secure connection for 2 people to communicate.
 
-Script is for educational reasons, its not built to be used in a real work critical senario
+Script is for educational reasons, its not built to be used in a real world critical senario
 Its not reliable and just a simple project (/^o^\)
 '''
 
